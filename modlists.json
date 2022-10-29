@@ -17,13 +17,13 @@
       "NeverNude" 
     ],
     "nsfw": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NSLOGO.png",
       "readme": "https://github.com/Geborgen/nordic-souls/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "download": "https://github.com/Geborgen/nordic-souls/releases/download/v1.0.0/Nordic.Souls.wabbajack",
       "machineURL": "nordic-souls",
       "discordURL": "https://discord.com/invite/nsJquPrHHE"
     },
