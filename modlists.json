@@ -23,18 +23,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NSLOGO.webp",
       "readme": "https://raw.githubusercontent.com/Geborgen/nordic-souls/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Nordic%20Souls.wabbajack_704465c3-d995-4522-ac5e-bbb10d8347c8",
+      "download": "https://authored-files.wabbajack.org/Nordic%20Souls.wabbajack_66a088f8-6a45-4382-95ad-be1a71c15ff1",
       "machineURL": "nordic-souls",
       "discordURL": "https://discord.com/invite/nsJquPrHHE"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "VOnVmvMOKcE=",
-      "Size": 399570814,
-      "NumberOfArchives": 1205,
-      "SizeOfArchives": 103565104749,
-      "NumberOfInstalledFiles": 151676,
-      "SizeOfInstalledFiles": 150173870501
+      "Hash": "eDnPxyvKWHs=",
+      "Size": 587580869,
+      "NumberOfArchives": 1249,
+      "SizeOfArchives": 103378348721,
+      "NumberOfInstalledFiles": 169380,
+      "SizeOfInstalledFiles": 151790041130
     },
     "version": "1.0.1"
   }
