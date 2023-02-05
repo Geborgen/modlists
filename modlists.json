@@ -22,7 +22,7 @@
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NSLOGO.webp",
-      "readme": "https://raw.githubusercontent.com/Geborgen/nordic-souls/main/README.md",
+      "readme": "https://github.com/Geborgen/nordic-souls/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Nordic%20Souls.wabbajack_9cc1de58-c906-49d1-9881-c2b96e2014d8",
       "machineURL": "nordic-souls",
       "discordURL": "https://discord.com/invite/9cRs3KPyuW"
