@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Nordic Souls",
-    "description": "Modlist providing a visual and gameplay overhaul designed to 'freshen up' and streamline Skyrim, while taking inspiration from other games yet still staying true to Skyrim's Nordic theme. Including LOTD, dozens of hours of new quests, a complete SimonRim gameplay overhaul, and much more, this list will modernize Skyrim in a way that is somewhat familiar yet new and refreshing.",
+    "description": "Nordic Souls is a comprehensive visual and gameplay overhaul for Skyrim SE/AE designed to 'freshen up' and streamline the game while staying true to Skyrim's Nordic theme. It provides a perfect balance between a lot of lore-friendly content in the form of new quests and loot, a complete SimonRim gameplay overhaul, and beautiful yet performance-friendly visuals.",
     "author": "Geborgen",
     "maintainers": [
       "github/Geborgen"
@@ -11,31 +11,30 @@
     "tags": [
       "Anniversary Edition",
       "Creation Club",
-      "LotD",
       "SimonRim",
       "NeverNude"
     ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NSLOGO.webp",
+      "image": "https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NS2Screen.png",
       "readme": "https://github.com/Geborgen/nordic-souls/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Nordic%20Souls.wabbajack_7fb30788-545c-420b-88e9-0ae439e47d49",
+      "download": "https://authored-files.wabbajack.org/Nordic%20Souls.wabbajack_a0b0db72-329b-466c-b2f5-84c8bc46ac32",
       "machineURL": "nordic-souls",
       "discordURL": "https://discord.com/invite/9cRs3KPyuW"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "dCLdbyxJnjQ=",
-      "Size": 457394602,
-      "NumberOfArchives": 1644,
-      "SizeOfArchives": 131632026177,
-      "NumberOfInstalledFiles": 170527,
-      "SizeOfInstalledFiles": 181271307676
+      "Hash": "eZLtzFZEkbM=",
+      "Size": 248904795,
+      "NumberOfArchives": 1558,
+      "SizeOfArchives": 132151690033,
+      "NumberOfInstalledFiles": 169717,
+      "SizeOfInstalledFiles": 180439994569
     },
-    "version": "1.4.3"
+    "version": "2.0.0"
   }
 ]
