@@ -12,7 +12,8 @@
       "Anniversary Edition",
       "Creation Club",
       "SimonRim",
-      "NeverNude"
+      "NeverNude",
+      "Performance"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -22,19 +23,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NS2Screen.png",
       "readme": "https://github.com/Geborgen/nordic-souls/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Nordic%20Souls.wabbajack_a0b0db72-329b-466c-b2f5-84c8bc46ac32",
+      "download": "https://authored-files.wabbajack.org/Nordic%20Souls.wabbajack_cb6a0109-aa28-413a-9e69-e6ecb1a89004",
       "machineURL": "nordic-souls",
       "discordURL": "https://discord.com/invite/9cRs3KPyuW"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "eZLtzFZEkbM=",
-      "Size": 248904795,
+      "Hash": "teGhSuGvW2g=",
+      "Size": 247970395,
       "NumberOfArchives": 1558,
-      "SizeOfArchives": 132151690033,
-      "NumberOfInstalledFiles": 169717,
-      "SizeOfInstalledFiles": 180439994569
+      "SizeOfArchives": 132170440735,
+      "NumberOfInstalledFiles": 170626,
+      "SizeOfInstalledFiles": 180470278020
     },
-    "version": "2.0.0"
+    "version": "2.0.1"
   }
 ]
