@@ -23,7 +23,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NS2Screen.png",
+      "image": "https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NordicSoulsBanner.png",
       "readme": "https://github.com/Geborgen/nordic-souls/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Nordic%20Souls.wabbajack_8d9a87cb-48a4-4d13-bdcf-a88bb28686be",
       "machineURL": "nordic-souls",
