@@ -20,7 +20,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NordicSoulsBanner.png",
@@ -38,6 +38,6 @@
       "NumberOfInstalledFiles": 171126,
       "SizeOfInstalledFiles": 184493195287
     },
-    "version": "2.2.0.1"
+    "version": "2.2.0.2"
   }
 ]
