@@ -1,8 +1,7 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Nordic Souls",
-    "description": "Nordic Souls is a comprehensive visual and gameplay overhaul for Skyrim SE/AE designed to 'freshen up' and streamline the game while staying true to Skyrim's Nordic theme. It provides a perfect balance between a lot of lore-friendly content in the form of new quests and loot, a complete SimonRim gameplay overhaul, and beautiful yet performance-friendly visuals.",
+    "description": "Nordic Souls is a comprehensive visual and gameplay overhaul for Skyrim SE/AE designed to \u0027freshen up\u0027 and streamline the game while staying true to Skyrim\u0027s Nordic theme. It provides a perfect balance between a lot of lore-friendly content in the form of new quests and loot, a complete SimonRim gameplay overhaul, and beautiful yet performance-friendly visuals.",
     "author": "Geborgen",
     "maintainers": [
       "github/Geborgen"
@@ -20,24 +19,26 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": true,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NordicSoulsBanner.png",
       "readme": "https://github.com/Geborgen/nordic-souls/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Nordic%20Souls.wabbajack_5dca4672-811d-45d0-900a-12f00326a5d9",
+      "download": "https://authored-files.wabbajack.org/Nordic Souls.wabbajack_a7c1d0c6-fb55-488f-b939-a2c723ea5a83",
       "machineURL": "nordic-souls",
       "discordURL": "https://discord.com/invite/9cRs3KPyuW"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "g8nx1z3SIN4=",
-      "Size": 193276358,
+      "Hash": "fwzMztp6oRw=",
+      "Size": 193276675,
       "NumberOfArchives": 1731,
-      "SizeOfArchives": 148768060081,
-      "NumberOfInstalledFiles": 266942,
-      "SizeOfInstalledFiles": 222242900092
+      "SizeOfArchives": 148768060138,
+      "NumberOfInstalledFiles": 266966,
+      "SizeOfInstalledFiles": 222243020410
     },
-    "version": "2.4.0.1"
+    "version": "2.4.0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-06-17T02:54:45.338069Z",
+    "repositoryName": ""
   }
 ]
