@@ -66,19 +66,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Geborgen/dinoksetiid/main/.github/DinoksetiidBanner.png",
       "readme": "https://github.com/Geborgen/dinoksetiid/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Dinoksetiid.wabbajack_8904e2ce-36fe-47f5-b2c5-bbff644a1f00",
+      "download": "https://authored-files.wabbajack.org/Dinoksetiid.wabbajack_ed23fea6-7af7-45b5-a7dd-029674c66266",
       "machineURL": "dinoksetiid",
       "discordURL": "https://discord.com/invite/9cRs3KPyuW"
     },
     "download_metadata": {
-      "Hash": "0ub6iqZzdJA=",
-      "Size": 186509168,
-      "NumberOfArchives": 740,
-      "SizeOfArchives": 60214495245,
-      "NumberOfInstalledFiles": 173998,
-      "SizeOfInstalledFiles": 88790063947
+      "Hash": "qKMcimHl8pU=",
+      "Size": 186550713,
+      "NumberOfArchives": 743,
+      "SizeOfArchives": 60207103913,
+      "NumberOfInstalledFiles": 174028,
+      "SizeOfInstalledFiles": 88765329902
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-08-20T21:32:36.9241257Z",
     "repositoryName": ""
   }
 ]
