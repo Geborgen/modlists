@@ -20,7 +20,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NordicSoulsBanner.png",
       "readme": "https://github.com/Geborgen/nordic-souls/blob/main/README.md",
@@ -83,4 +83,5 @@
     "dateUpdated": "2024-08-20T21:32:36.9241257Z",
     "repositoryName": ""
   }
+
 ]
