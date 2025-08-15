@@ -24,21 +24,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NordicSoulsBanner.png",
       "readme": "https://github.com/Geborgen/nordic-souls/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Nordic Souls.wabbajack_c62de0cd-0a1d-48e3-a529-f440deebde95",
+      "download": "https://authored-files.wabbajack.org/Nordic Souls.wabbajack_da1227c2-a76d-4714-a520-8a57d51e5dc6",
       "machineURL": "nordic-souls",
-      "discordURL": "https://discord.com/invite/9cRs3KPyuW"
+      "discordURL": "https://discord.com/invite/9cRs3KPyuW",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "MUwPTPVnYlg=",
-      "Size": 192300824,
-      "NumberOfArchives": 1742,
-      "SizeOfArchives": 149015564786,
-      "NumberOfInstalledFiles": 268896,
-      "SizeOfInstalledFiles": 222323162745
+      "Hash": "omakGWR/XfU=",
+      "Size": 1432746453,
+      "NumberOfArchives": 1689,
+      "SizeOfArchives": 124279501293,
+      "NumberOfInstalledFiles": 244016,
+      "SizeOfInstalledFiles": 186978296039,
+      "TotalSize": 311257797332
     },
-    "version": "2.4.1.1",
+    "version": "3.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-08-11T20:42:23.1757375Z",
+    "dateUpdated": "2025-08-15T13:39:26.7702523Z",
     "repositoryName": ""
   },
   {
@@ -68,7 +70,8 @@
       "readme": "https://github.com/Geborgen/dinoksetiid/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Dinoksetiid.wabbajack_ed23fea6-7af7-45b5-a7dd-029674c66266",
       "machineURL": "dinoksetiid",
-      "discordURL": "https://discord.com/invite/9cRs3KPyuW"
+      "discordURL": "https://discord.com/invite/9cRs3KPyuW",
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "qKMcimHl8pU=",
@@ -76,12 +79,12 @@
       "NumberOfArchives": 743,
       "SizeOfArchives": 60207103913,
       "NumberOfInstalledFiles": 174028,
-      "SizeOfInstalledFiles": 88765329902
+      "SizeOfInstalledFiles": 88765329902,
+      "TotalSize": 148972433815
     },
     "version": "1.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-08-20T21:32:36.9241257Z",
     "repositoryName": ""
   }
-
 ]
