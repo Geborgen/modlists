@@ -1,7 +1,7 @@
 [
   {
     "title": "Nordic Souls",
-    "description": "Nordic Souls is a comprehensive visual and gameplay overhaul for Skyrim SE/AE designed to \u0027freshen up\u0027 and streamline the game while staying true to Skyrim\u0027s Nordic theme. It provides a perfect balance between a lot of lore-friendly content in the form of new quests and loot, a complete SimonRim gameplay overhaul, and beautiful yet performance-friendly visuals.",
+    "description": "Nordic Souls is a comprehensive visual and gameplay overhaul designed to modernize Skyrim while staying true to the game's Nordic theme. It provides a perfect balance between plenty of new content, a complete SimonRim gameplay overhaul, and beautiful yet performance-friendly visuals.",
     "author": "Geborgen",
     "maintainers": [
       "github/Geborgen"
@@ -20,7 +20,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NordicSoulsBanner.png",
       "readme": "https://github.com/Geborgen/nordic-souls/blob/main/README.md",
@@ -87,4 +87,5 @@
     "dateUpdated": "2024-08-20T21:32:36.9241257Z",
     "repositoryName": ""
   }
+
 ]
