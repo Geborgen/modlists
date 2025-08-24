@@ -1,7 +1,7 @@
 [
   {
     "title": "Nordic Souls",
-    "description": "Nordic Souls is a comprehensive visual and gameplay overhaul designed to modernize Skyrim while staying true to the game's Nordic theme. It provides a perfect balance between plenty of new content, a complete SimonRim gameplay overhaul, and beautiful yet performance-friendly visuals.",
+    "description": "Nordic Souls is a comprehensive visual and gameplay overhaul designed to modernize Skyrim while staying true to the game\u0027s Nordic theme. It provides a perfect balance between plenty of new content, a complete SimonRim gameplay overhaul, and beautiful yet performance-friendly visuals.",
     "author": "Geborgen",
     "maintainers": [
       "github/Geborgen"
@@ -24,23 +24,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NordicSoulsBanner.png",
       "readme": "https://github.com/Geborgen/nordic-souls/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Nordic Souls.wabbajack_e2db52da-d6d3-44c6-a5ed-18bfa74e16c3",
+      "download": "https://authored-files.wabbajack.org/Nordic Souls.wabbajack_818e396a-d108-40e4-86a5-d7c2fd0803c5",
       "machineURL": "nordic-souls",
       "discordURL": "https://discord.gg/9cRs3KPyuW",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/77497"
     },
     "download_metadata": {
-      "Hash": "omakGWR/XfU=",
-      "Size": 1432746453,
-      "NumberOfArchives": 1689,
-      "SizeOfArchives": 124279501293,
-      "NumberOfInstalledFiles": 244016,
-      "SizeOfInstalledFiles": 186978296039,
-      "TotalSize": 311257797332
+      "Hash": "6ihlFLQH3N8=",
+      "Size": 1415851178,
+      "NumberOfArchives": 1695,
+      "SizeOfArchives": 124296671102,
+      "NumberOfInstalledFiles": 244061,
+      "SizeOfInstalledFiles": 186828085902,
+      "TotalSize": 311124757004
     },
-    "version": "3.0.0",
+    "version": "3.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-08-15T13:40:43.2670643Z",
+    "dateUpdated": "2025-08-24T22:30:08.9770476Z",
     "repositoryName": ""
   },
   {
@@ -87,6 +87,4 @@
     "dateUpdated": "2024-08-20T21:32:36.9241257Z",
     "repositoryName": ""
   }
-
 ]
-
