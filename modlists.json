@@ -24,7 +24,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NordicSoulsBanner.png",
       "readme": "https://github.com/Geborgen/nordic-souls/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Nordic Souls.wabbajack_fe3eed0b-7804-486d-b195-be4b4eb316b4",
+      "download": "https://authored-files.wabbajack.org/Nordic Souls.wabbajack_519cc1de-ba6b-4704-860b-7a04e6594330",
       "machineURL": "nordic-souls",
       "discordURL": "https://discord.gg/9cRs3KPyuW",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/77497",
@@ -36,17 +36,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "fQChx1vsm1E=",
-      "Size": 1029761849,
-      "NumberOfArchives": 1735,
-      "SizeOfArchives": 131547488901,
-      "NumberOfInstalledFiles": 321531,
-      "SizeOfInstalledFiles": 202167389972,
-      "TotalSize": 333714878873
+      "Hash": "caTEEEi068k=",
+      "Size": 1029759884,
+      "NumberOfArchives": 1736,
+      "SizeOfArchives": 131583077687,
+      "NumberOfInstalledFiles": 321558,
+      "SizeOfInstalledFiles": 202283448236,
+      "TotalSize": 333866525923
     },
-    "version": "3.2.2",
+    "version": "3.2.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-08-31T16:57:45.7261834Z",
+    "dateUpdated": "2026-10-09T23:43:51.0059004Z",
     "repositoryName": ""
   },
   {
